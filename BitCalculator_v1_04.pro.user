@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 9.0.2, 2023-12-02T01:08:03. -->
+<!-- Written by QtCreator 9.0.2, 2023-12-02T01:42:44. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -240,9 +240,8 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">BitCalculator_v1_042</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/josi/Projekte/v1.04/BitCalculator_v1_04.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/josi/Projekte/v1.04/BitCalculator_v1_04.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/josi/Projekte/github/BitCalculator/BitCalculator_v1_04.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/josi/Projekte/github/BitCalculator/BitCalculator_v1_04.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
