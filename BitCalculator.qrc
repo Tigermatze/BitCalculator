@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Bilder">
+        <file>Bilder/gtk-preferences.png</file>
+        <file>Bilder/MaJ_Logo.png</file>
+    </qresource>
+</RCC>
